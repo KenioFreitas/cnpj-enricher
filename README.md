@@ -53,7 +53,7 @@ Coloque um arquivo `.xlsx` ou `.csv` na raiz do projeto com pelo menos uma colun
 
 Coluna `number` é opcional — se existir, é preservada no output.
 
-Veja o exemplo em [`exemplo/exemplo_entrada.xlsx`](exemplo/exemplo_entrada.xlsx).
+Veja o exemplo em [`exemplo/exemplo_entrada.csv`](exemplo/exemplo_entrada.csv).
 
 ### 3. Executar
 
