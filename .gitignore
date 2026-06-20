@@ -1,0 +1,23 @@
+# Outputs
+saida/
+
+# Arquivos de entrada reais (não versionar dados)
+*.xlsx
+*.csv
+!exemplo/*.xlsx
+!exemplo/*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Instaladores
+*.exe
+
+# OS
+.DS_Store
+Thumbs.db
